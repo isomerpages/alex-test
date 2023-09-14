@@ -83,7 +83,6 @@ sections:
             url: /resource_room/
           - title: Card 4 has no description
             linktext: Learn more and more and more and more and more
-            url: /contact-us/
-        
+            url: /contact-us/     
 ---
 
