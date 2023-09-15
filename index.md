@@ -83,6 +83,13 @@ sections:
             url: /resource_room/
           - title: Card 4 has no description
             linktext: Learn more and more and more and more and more
-            url: /contact-us/     
+            url: /contact-us/
+    - infopic:
+        title: Infopic
+        description: Infopic desc
+        button: BUTTON
+        url: https://www.google.com
+        image: /images/isomer-logo.svg
+        alt: Isomer logo
 ---
 
