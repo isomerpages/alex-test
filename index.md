@@ -50,7 +50,7 @@ sections:
           linktext: Learn more
           url: https://www.google.com
   - textcards:
-      title: Hey there!
+      title: Hey there 3!
       subtitle: Lorem ipsum!
       description: Lorem ipsum sit amet dolores
       cards:
