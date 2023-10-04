@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - textcards:
-      title: Hey there!
+      title: Hey there 1!
       subtitle: Lorem ipsum!
       description: Lorem ipsum sit amet dolores
       cards:
