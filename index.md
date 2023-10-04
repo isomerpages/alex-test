@@ -38,7 +38,7 @@ sections:
           linktext: Learn more
           url: /contact-us/
   - textcards:
-      title: Hey there!
+      title: Hey there 2!
       subtitle: Lorem ipsum!
       description: Lorem ipsum sit amet dolores
       cards:
