@@ -97,22 +97,14 @@ sections:
       url: https://www.google.com
       image: /images/isomer-logo.svg
       alt: Isomer logo
-  - textcards:
-      title: Text Cards
+  - infobar:
+      title: Infobar
       subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
