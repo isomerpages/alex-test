@@ -19,5 +19,7 @@ links:
         url: /data-gov-sg/
       - title: Unlinked
         url: /unlinked/datagovv2/
+      - title: Collection
+        url: /datagovv2/collection/
       - title: Thirdnav
         url: /datagovv2/thirdnav/
