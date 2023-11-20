@@ -18,3 +18,5 @@ links:
         url: /datagovv2/thirdnav/
   - title: New resource room
     resource_room: true
+  - title: E-Gazette Search
+    url: /egazette-search/
