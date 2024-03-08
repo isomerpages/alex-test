@@ -10,7 +10,7 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Contact Us but long long and longer and longer and even longer and even longer and it should wrap at this point
       url: /contact-us/
       key_highlights:
         - title: Highlight A
